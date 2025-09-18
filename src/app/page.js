@@ -38,7 +38,7 @@ const Header = () => {
             <div className="container mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex items-center justify-between h-16">
                     <div className="flex-shrink-0">
-                        <img src="/Logotype.png" alt="Judix Logo" className="h-8 w-auto" />
+                        <Image src="/Logotype.png" alt="Judix Logo" className="h-8 w-auto" />
                     </div>
                     <div className="flex items-center space-x-8">
                         <nav className="hidden md:flex md:space-x-8">
